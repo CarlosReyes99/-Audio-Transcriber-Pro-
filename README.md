@@ -1,5 +1,8 @@
 # 🎙️ Audio Transcriber Pro 📝
 
+
+LINK DEL SCRIPT: https://colab.research.google.com/drive/1lzTaduaNzshro-uV07cBIqvicyzvWXZF?usp=sharing
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
   <img src="https://img.shields.io/badge/Whisper-v1.0+-green.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper Model">
