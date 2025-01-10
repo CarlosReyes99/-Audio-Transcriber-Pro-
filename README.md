@@ -51,8 +51,6 @@
    -   Una vez finalizada la transcripción, el archivo SRT estará disponible en el mismo directorio de Colab.
    -   Descarga el archivo SRT desde el panel de archivos de Colab o directamente desde el código usando el método `files.download()`.
 
-### 💻 Ejemplo de uso en Google Colab:
 
-```python
-# Código de ejemplo (incluir el script)
-# ... [aquí el código de tu script] ...
+
+
